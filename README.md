@@ -1,4 +1,4 @@
-# Final-code
+# MBZUAI Cats vs Dogs Challenge, 2021 (winning team repository)
 These are our final code scripts for the MBZUAI Dog vs Cat challenge, 2021 <br>
 We got the first position in the overall standing with our model accuracy of 99.56% on the evaluation test dataset. <br>
 <br>

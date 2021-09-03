@@ -9,6 +9,11 @@ The repo includes:
    <li> CSV file containing the predicted labels from our final efficient model which were used for submission ( EfficientNet B2 ) </li>
  </ol>
   
+ ## Experimentation
+ ![alt text](https://github.com/Uzair-Khattak/PytorchCLassification-onJetson/blob/main/part1.jpg)
+ 
+ ## Summary: Cats vs Dogs Challenge
+ 
  ## Requirements 
 We recommend using Google colab to run the code due to the complex computation. <br>
 A GPU is recommended which is provided for free in colab. <br>

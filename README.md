@@ -5,9 +5,11 @@ We got the first position in the overall standing with our model accuracy of 99.
 The repo includes:
 <ol>
   <li> PyTorch Jupyter Notebook (we used it to train different SOTA models (ResNets, DenseNets, VGG-16 etc)
-  <ul> <li> This notebook requires dataset to be in ImageNet format (separate folders for each label)
+  <ul> <li> This notebook requires dataset to be in ImageNet format (separate folders for each label), we will soon share the pre-processing script required to run this notebook
     </ul></li>
-  <li> fast.ai Jupyter Notebook for EfficientNet model experimentations (final results were submitted using the model trained on this Notebook) </li>
+  <li> fast.ai Jupyter Notebook for EfficientNet model experimentations (final results were submitted using the model trained on this Notebook)
+      <ul> <li> This notebook can be used as it is in Google Colab
+    </ul></li>
    <li> CSV file containing the predicted labels from our final efficient model which were used for submission ( EfficientNet B2 ) </li>
   <li> A short report summarizing the our experiment and work </li>
  </ol>

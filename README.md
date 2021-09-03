@@ -7,13 +7,14 @@ The repo includes:
   <li> PyTorch Jupyter Notebook (we used it to train different SOTA models (ResNets, DenseNets, VGG-16 etc) </li>
   <li> fast.ai Jupyter Notebook for EfficientNet model experimentations (final results were submitted using the model trained on this Notebook) </li>
    <li> CSV file containing the predicted labels from our final efficient model which were used for submission ( EfficientNet B2 ) </li>
+  <li> A short report summarizing the our experiment and work </li>
  </ol>
   
  ## Experimentation
  ![alt text](https://github.com/Dog-vs-Cat-challenge/Final-code/blob/main/experimentation.JPG)
  
  ## Summary: Cats vs Dogs Challenge
- 
+ Please check the report document (present in this repo) which explains our work and experiments which we did.
  ## Requirements 
 We recommend using Google colab to run the code due to the complex computation. <br>
 A GPU is recommended which is provided for free in colab. <br>

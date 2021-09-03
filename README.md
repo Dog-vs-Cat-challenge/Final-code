@@ -10,7 +10,7 @@ The repo includes:
  </ol>
   
  ## Experimentation
- ![alt text](https://github.com/Uzair-Khattak/PytorchCLassification-onJetson/blob/main/part1.jpg)
+ ![alt text](https://github.com/Dog-vs-Cat-challenge/Final-code/blob/main/experimentation.JPG)
  
  ## Summary: Cats vs Dogs Challenge
  

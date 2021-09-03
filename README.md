@@ -15,7 +15,7 @@ The repo includes:
  </ol>
   
  ## Experimentation
- ![alt text](https://github.com/Dog-vs-Cat-challenge/Final-code/blob/main/experimentation.JPG)
+ ![alt text](https://github.com/Dog-vs-Cat-challenge/Final-code/blob/main/experimentation.PNG)
  
  ## Summary: Cats vs Dogs Challenge
  Please check the report document (present in this repo) which explains our work and experiments which we did.

@@ -18,6 +18,6 @@ The repo includes:
  ## Summary: Cats vs Dogs Challenge
  Please check the report document (present in this repo) which explains our work and experiments which we did.
  ## Requirements 
-We recommend using Google colab to run the code due to the complex computation. <br>
+We recommend using Google colab to run the code for faster computation. <br>
 A GPU is recommended which is provided for free in colab. <br>
 So you can directly re-run the notebooks using Google Collab
